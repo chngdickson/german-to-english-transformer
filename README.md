@@ -14,5 +14,3 @@ Converts Image and to text and translate german to english using transformer
 ### Executing program
 
 * run img_to_text.ipynb
-```
-
