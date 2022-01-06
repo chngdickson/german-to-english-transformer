@@ -7,7 +7,7 @@
 ## Requirement
 * [python 3.7](https://www.python.org) 
 * [pytorch 1.0.1](https://pytorch.org/)
-* [pytesseract ] (https://pypi.org/project/pytesseract/)
+* [pytesseract] (https://pypi.org/project/pytesseract/)
 * [cv2](https://pypi.org/project/opencv-python/)
 * GPU with 4GB RAM or Higher
 
