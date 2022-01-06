@@ -16,4 +16,5 @@
 * git clone the project and it should run out of the box
 
 ### Executing program
-* run img_to_text.ipynb
+* Run jupyterlab
+* open img_to_text.ipynb
